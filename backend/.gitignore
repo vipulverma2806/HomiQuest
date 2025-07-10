@@ -10,11 +10,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-config/
-controllers/
-middleware/
-model/
-routes/
+# config/
+# controllers/
+# middleware/
+# model/
+# routes/
 
 dist
 dist-ssr
